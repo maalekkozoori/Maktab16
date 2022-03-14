@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_baseline_image_24"
+        android:title="All Item" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_baseline_highlight_alt_24"
+        android:title="Selected Item" />
+</menu>
